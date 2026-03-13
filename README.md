@@ -10,7 +10,7 @@ Aplicación de WebSocket (Broker – chat), que esta construida con tecnologías
   - Stomp
 
 ### Documentación completa:
-descripcionProyecto_es.pdf
+descripcionProyectoBrokerBackend_es.pdf
 
 
 # Description English:
